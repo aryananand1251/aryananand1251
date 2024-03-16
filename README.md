@@ -1,4 +1,4 @@
- Hi I am Aryan Anand 
+   Hi I am Aryan Anand 
 
 * I’m a 3rd year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
 * I’m looking to collaborate on Open Source Projects.
