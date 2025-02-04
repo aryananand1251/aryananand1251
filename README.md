@@ -1,11 +1,13 @@
-   Hi I am Aryan Anand 
+ # **Hi I am Aryan Anand**
 
-* I’m a final year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
-* I’m looking to collaborate on Open Source Projects.
-* I’m a Android Developer.
-* I’m also interested in Networking and Firewall.
-* Actively looking for Software Engineer intern(Android Development) and
-  research on Networking and Firewall System.
+* Currently a final-year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
+* Android Developer with a passion for building mobile applications.
+* Interested in Networking and Firewall systems, with a focus on security.
+* Working on Spring Boot for backend development and actively developing my own live project.
+* Looking to collaborate on open-source projects and contribute to the community
+
+![Profile views](https://komarev.com/ghpvc/?username=aryananand1251)
+
 
 
   ## 🚀 Projects
