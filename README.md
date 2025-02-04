@@ -4,7 +4,7 @@
 * Android Developer with a passion for building mobile applications.
 * Interested in Networking and Firewall systems, with a focus on security.
 * Working on Spring Boot for backend development and actively developing my own live project.
-* Looking to collaborate on open-source projects and contribute to the community
+* Looking to collaborate on open-source projects and contribute to the community.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aryananand1251)
 
