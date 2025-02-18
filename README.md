@@ -17,6 +17,7 @@
 | S.No | Project Name            | Technologies Used                                        | Live App                 | GitHub Link |
 |------|-------------------------|---------------------------------------------------------|--------------------------|-------------|
 | 1    | **Online PG Booking Application**    | XML, Java, Gradle build system, Google MAPs API | Not deployed Yet | [link](https://github.com/aryananand1251/FlaPg) |
+| 2    | **Resume Creating website**    | HTML, CSS, Java Script, Rest API, Spring Boot, Java | [link](https://aryananand1251.github.io/ResumeWala/) | [link](Working on it) |
 
 
 ### 👨‍💻 Mini Projects
