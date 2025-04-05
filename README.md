@@ -18,6 +18,7 @@
 |------|-------------------------|---------------------------------------------------------|--------------------------|-------------|
 | 1    | **Online PG Booking Application**    | XML, Java, Gradle build system, Google MAPs API, Spring Boot | Not deployed Yet | [link](https://github.com/aryananand1251/FlaPg) |
 | 2    | **Resume Creating website**    | HTML, CSS, Java Script, Rest API, Spring Boot, Java | [link](https://aryananand1251.github.io/ResumeWala/) | [link](Working on it) |
+| 3   | **Uber review service(Backend)**    |  Rest API, Spring Boot, Java | [link](https://github.com/aryananand1251/UberReviewService) | [link](https://github.com/aryananand1251/UberReviewService) |
 
 
 ### 👨‍💻 Mini Projects
